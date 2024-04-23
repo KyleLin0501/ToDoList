@@ -1,0 +1,33 @@
+h2{
+    margin: 0;
+    color: darkslateblue;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+.loginblock{
+    width: 400px;
+    margin: auto;
+    margin-top: 200px;
+    border: 2px pink;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 6px 3px;
+}
+#todo{
+}
+#input{
+    margin-left: 10px;
+    margin-top: 5px;
+}
+button{
+    margin-left: 10px;
+}
+#clear{
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
